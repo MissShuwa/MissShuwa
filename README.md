@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **NichtLarissa#0001**
+- 📫 How to reach me **Aysa#0001**
 
 - ⚡ Fun fact **i have no Aim on any FPS**
 
