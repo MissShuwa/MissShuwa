@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=missshuwa&label=Profile%20views&color=0e75b6&style=flat" alt="missshuwa" /> </p>
 
-- 🔭 I’m currently working on [CloudV](Discord.gg/CloudV2)
+- 🔭 I’m currently working on Nothing
 
-- 🌱 I’m currently learning **LUA**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **Aysa#0001**
+- 📫 How to reach me **AysaQueenOVO**
 
 - ⚡ Fun fact **i have no Aim on any FPS**
 
